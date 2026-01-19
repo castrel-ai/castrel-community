@@ -85,9 +85,11 @@ Please avoid:
 ## 🔒 Security Issues
 
 If you discover a security vulnerability, please **DO NOT** open a public issue. Instead:
-- Contact the maintainers privately
+- Use GitHub's [Security Advisories](../../security/advisories/new) feature to report privately
 - Provide detailed information about the vulnerability
 - Allow time for the issue to be addressed before public disclosure
+
+For more information, see our [Security Policy](../../security/policy).
 
 ## 📞 Getting Help
 
